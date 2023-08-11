@@ -1,0 +1,24 @@
+.container-sm {
+    max-width: 600px;
+}
+
+.pointer {
+    cursor: pointer;
+    user-select: none;
+}
+
+.color-swatch {
+    margin: 0 10px 10px 0;
+}
+
+.color-swatch input {
+    display: none;
+}
+
+.color-swatch span {
+    cursor: pointer;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+}
+
